@@ -3,6 +3,7 @@ import Header from './Header'
 import {Switch, Route} from 'react-router-dom'
 import Photos from '../Pages/Photos'
 import Cart from '../Pages/Cart'
+import "./styles.css"
 
 function App(){
     return(
